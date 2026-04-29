@@ -31,10 +31,9 @@ I'm a CS student from Jijel, Algeria, passionate about building things across th
 |---|---|---|
 | [voyage-intelligence](https://github.com/mehdilounnas/voyage-intelligence) | AI-powered tourism platform with microservices | Spring Boot, Python AI, HTML |
 | [auralis-restaurant-management-system](https://github.com/mehdilounnas/auralis-restaurant-management-system) | Full-stack restaurant & fast-food management (web + mobile) | PHP, MySQL, React/Next.js, Tailwind, Flutter |
-| [TP-RIC-MLP](https://github.com/mehdilounnas/TP-RIC-MLP) | MLP from scratch with NumPy | Python |
 | [easy-speed-inspector](https://github.com/mehdilounnas/easy-speed-inspector) | Speed inspection tool | Dart |
 | [YALIDINE-INSPECTION](https://github.com/mehdilounnas/YALIDINE-INSPECTION) | Mobile inspection app for Yalidine | Dart/Flutter |
-| [algeria-apartment-rental-system](https://github.com/mehdilounnas/algeria-apartment-rental-system) | Desktop rental management app (Tkinter & Kivy) | Python |
+
 
 ---
 
