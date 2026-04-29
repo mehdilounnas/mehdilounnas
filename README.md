@@ -13,7 +13,7 @@
 
 ---
 
-## 🙋 About me
+## About me
 
 I'm a IA Master student from Jijel, Algeria, passionate about building things across the full stack — from AI-powered platforms and web apps to mobile and desktop tools. I love diving deep into compilers and machine learning alongside real-world projects.
 
@@ -78,4 +78,4 @@ I'm a IA Master student from Jijel, Algeria, passionate about building things ac
 
 ---
 
-<p align="center">Made with ❤️ from Jijel, Algeria</p>
+
