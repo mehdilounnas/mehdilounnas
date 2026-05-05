@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Lounnas Mehdi 👋</h1>
 
 <p align="center">
-  <em>Computer Science student at Jijel | Compilers · AI · Web Dev</em>
+  <em>Computer Science student at Jijel | AI · Full-Stuck Dev</em>
 </p>
 
 <p align="center">
