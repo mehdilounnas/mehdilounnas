@@ -5,11 +5,7 @@
   <em>Computer Science student at Jijel | AI · Full-Stuck Dev</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/mehdilounnas">
-    <img src="https://komarev.com/ghpvc/?username=mehdilounnas&style=flat-square&color=blue" alt="profile views" />
-  </a>
-</p>
+
 
 ---
 
